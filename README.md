@@ -10,7 +10,6 @@ Welcome to **Dropit**, a seamless and secure platform designed for effortless fi
 - **Code-Based Sharing**: Generate unique codes for sharing files with others.
 - **Cloud Integration**: Files are securely stored on AWS S3 for high availability.
 - **Responsive Design**: Fully responsive interface built using Bootstrap.
-- **Custom File Type Support**: Supports multiple file formats without altering the file type.
 - **Fast Delivery**: Uses AWS S3 and CloudFront for optimal speed and reliability.
 
 ---
@@ -45,7 +44,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/dropit.git
+   git clone https://github.com/sait-357/dropit.git
    cd dropit
 
 ### Setup Environment Variables
@@ -57,3 +56,10 @@ Follow these steps to get the project up and running on your local machine:
 
 ### Start the application 
     npm start
+
+## 🤝 Contributing
+- We welcome contributions to improve Dropit. To contribute:
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Commit your changes and push the branch.
+- Open a pull request for review.
