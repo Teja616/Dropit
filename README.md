@@ -1,6 +1,6 @@
 # Dropit - Secure File Sharing Platform
 ![DropIt Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ28SJLMFrS6V3VDLUZOV7AK8L7OBpORN-Feg&amp;s)  
-🌎 Website: bit.ly/Dropit-in
+🌎 🔗 **Live Demo:** [Dropit File Sharing](https://bit.ly/Dropit-in)
 
 Welcome to **Dropit**, a seamless and secure platform designed for effortless file sharing. This project leverages cutting-edge technologies to provide users with an intuitive interface and robust backend for handling file uploads, downloads, and sharing via unique codes. Built with scalability and user-friendliness in mind, Dropit is the perfect solution for modern file-sharing needs.
 
@@ -27,7 +27,7 @@ Welcome to **Dropit**, a seamless and secure platform designed for effortless fi
 - **AWS SDK**: Connects the application to AWS S3 for secure file storage and retrieval.
 
 ### Hosting
-- **AWS Amplify**: Hosts the website, providing automatic HTTPS and fast deployment.
+- **AWS EC2**: Hosts the website, providing automatic HTTP using nginx web server.
 - **AWS S3**: Stores uploaded files securely.
 - **AWS CloudFront**: Ensures low-latency file access with global CDN integration.
 
