@@ -1,4 +1,6 @@
 # Dropit - Secure File Sharing Platform
+![DropIt Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ28SJLMFrS6V3VDLUZOV7AK8L7OBpORN-Feg&amp;s)  
+🌎 Website: [DropIt Official](bit.ly/Dropit-in)
 
 Welcome to **Dropit**, a seamless and secure platform designed for effortless file sharing. This project leverages cutting-edge technologies to provide users with an intuitive interface and robust backend for handling file uploads, downloads, and sharing via unique codes. Built with scalability and user-friendliness in mind, Dropit is the perfect solution for modern file-sharing needs.
 
@@ -57,9 +59,22 @@ Follow these steps to get the project up and running on your local machine:
 ### Start the application 
     npm start
 
-## 🤝 Contributing
-- We welcome contributions to improve Dropit. To contribute:
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Commit your changes and push the branch.
-- Open a pull request for review.
+## 🤝 Contribution
+We welcome contributions! Please follow the standard GitHub workflow:
+1. Fork the repo
+2. Create a feature branch (`git checkout -b feature-xyz`)
+3. Commit changes (`git commit -m 'Added new feature'`)
+4. Push to GitHub (`git push origin feature-xyz`)
+5. Open a PR 🚀
+
+## 📝 License
+This project is licensed under the **MIT License**. See `LICENSE` for details.
+
+## 📞 Contact
+📧 Email: 22r01a6616@gmail.com
+🔗 LinkedIn: [Your Profile](www.linkedin.com/in/sai-teja-gunda-853454280)  
+
+
+---
+
+💡 *DropIt – Because File Sharing Should Be Effortless!* 🚀
